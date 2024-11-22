@@ -4485,7 +4485,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "UiPath/24.10.106.53365": {
+      "UiPath/24.10.108.16096": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -4931,7 +4931,7 @@
           "lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll": {}
         }
       },
-      "UiPath.Mail.Activities/1.23.11": {
+      "UiPath.Mail.Activities/1.24.1": {
         "type": "package",
         "dependencies": {
           "Google.Apis.Calendar.v3": "1.55.0.2554",
@@ -4954,7 +4954,7 @@
           "UiPath.CodedWorkflows": "24.10.0",
           "UiPath.ConnectionClient": "2.0.4",
           "UiPath.OfficeLibs": "1.0.0",
-          "UiPath.Platform": "24.2.0",
+          "UiPath.Platform": "24.11.1",
           "UiPath.Telemetry.Client": "2.1.3"
         },
         "compile": {
@@ -5634,11 +5634,11 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities/24.10.6": {
+      "UiPath.UIAutomation.Activities/24.10.7": {
         "type": "package",
         "dependencies": {
-          "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.10.6]",
-          "UiPath.UIAutomation.Activities.Runtime": "[24.10.6]"
+          "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.10.7]",
+          "UiPath.UIAutomation.Activities.Runtime": "[24.10.7]"
         },
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -5806,7 +5806,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.6": {
+      "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.7": {
         "type": "package",
         "compile": {
           "lib/net6.0/_._": {}
@@ -5815,12 +5815,12 @@
           "lib/net6.0/UiPath.UIAutomation.Activities.Design.RecoveryPanel.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime/24.10.6": {
+      "UiPath.UIAutomation.Activities.Runtime/24.10.7": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "System.IO.Abstractions": "3.0.10",
-          "UiPath": "[24.10.106.53365]",
+          "UiPath": "[24.10.108.16096]",
           "UiPath.Activities.RuntimeGovernance": "1.1.6",
           "UiPath.CodedWorkflows": "24.10.1",
           "UiPath.ImageProcessing": "23.4.0",
@@ -5828,7 +5828,7 @@
           "UiPath.OCR.Contracts": "2.16.0",
           "UiPath.Platform": "24.11.1",
           "UiPath.Telemetry.Client": "2.1.3",
-          "UiPath.UIAutomation.Activities.Runtime.Design": "[24.10.6]",
+          "UiPath.UIAutomation.Activities.Runtime.Design": "[24.10.7]",
           "UiPath.Vision": "3.14.2"
         },
         "compile": {
@@ -6010,7 +6010,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime.Design/24.10.6": {
+      "UiPath.UIAutomation.Activities.Runtime.Design/24.10.7": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -10409,7 +10409,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "UiPath/24.10.106.53365": {
+      "UiPath/24.10.108.16096": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -10855,7 +10855,7 @@
           "lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll": {}
         }
       },
-      "UiPath.Mail.Activities/1.23.11": {
+      "UiPath.Mail.Activities/1.24.1": {
         "type": "package",
         "dependencies": {
           "Google.Apis.Calendar.v3": "1.55.0.2554",
@@ -10878,7 +10878,7 @@
           "UiPath.CodedWorkflows": "24.10.0",
           "UiPath.ConnectionClient": "2.0.4",
           "UiPath.OfficeLibs": "1.0.0",
-          "UiPath.Platform": "24.2.0",
+          "UiPath.Platform": "24.11.1",
           "UiPath.Telemetry.Client": "2.1.3"
         },
         "compile": {
@@ -11558,11 +11558,11 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities/24.10.6": {
+      "UiPath.UIAutomation.Activities/24.10.7": {
         "type": "package",
         "dependencies": {
-          "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.10.6]",
-          "UiPath.UIAutomation.Activities.Runtime": "[24.10.6]"
+          "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.10.7]",
+          "UiPath.UIAutomation.Activities.Runtime": "[24.10.7]"
         },
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -11730,7 +11730,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.6": {
+      "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.7": {
         "type": "package",
         "compile": {
           "lib/net6.0/_._": {}
@@ -11739,12 +11739,12 @@
           "lib/net6.0/UiPath.UIAutomation.Activities.Design.RecoveryPanel.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime/24.10.6": {
+      "UiPath.UIAutomation.Activities.Runtime/24.10.7": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "System.IO.Abstractions": "3.0.10",
-          "UiPath": "[24.10.106.53365]",
+          "UiPath": "[24.10.108.16096]",
           "UiPath.Activities.RuntimeGovernance": "1.1.6",
           "UiPath.CodedWorkflows": "24.10.1",
           "UiPath.ImageProcessing": "23.4.0",
@@ -11752,7 +11752,7 @@
           "UiPath.OCR.Contracts": "2.16.0",
           "UiPath.Platform": "24.11.1",
           "UiPath.Telemetry.Client": "2.1.3",
-          "UiPath.UIAutomation.Activities.Runtime.Design": "[24.10.6]",
+          "UiPath.UIAutomation.Activities.Runtime.Design": "[24.10.7]",
           "UiPath.Vision": "3.14.2"
         },
         "compile": {
@@ -11934,7 +11934,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime.Design/24.10.6": {
+      "UiPath.UIAutomation.Activities.Runtime.Design/24.10.7": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -20988,10 +20988,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "UiPath/24.10.106.53365": {
-      "sha512": "PvoFjDp96Uc9Olg11HF3PJ1gxacGHFS9Fto2B57w98FkOrq+Wm/yQIseTtxjcuULGlaabLse8RuY05GodPXNGw==",
+    "UiPath/24.10.108.16096": {
+      "sha512": "wRo08/XlmWVJ76+Kwo9DAlEmGkfK/6hv8PtkmW471AZhGRdYOEl2Lrk+Ae5yzo09zwWg27H9NVJNxaXhUC6D9g==",
       "type": "package",
-      "path": "uipath/24.10.106.53365",
+      "path": "uipath/24.10.108.16096",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21072,7 +21072,7 @@
         "lib/net6.0-windows7.0/SapWinGuiSdk.dll",
         "lib/net6.0-windows7.0/UiPath.Interop.dll",
         "lib/net6.0/UiPath.Locator.dll",
-        "uipath.24.10.106.53365.nupkg.sha512",
+        "uipath.24.10.108.16096.nupkg.sha512",
         "uipath.nuspec"
       ]
     },
@@ -21465,10 +21465,10 @@
         "uipath.imageprocessing.nuspec"
       ]
     },
-    "UiPath.Mail.Activities/1.23.11": {
-      "sha512": "iJ1Ws3ZeF67otv/GKqF0s48qDmC2hAaLPZd/JzUW+HnP3lZ6uOVuPD7FBqpAf7BPt2V5fjlKoojeBeZUyTIrdQ==",
+    "UiPath.Mail.Activities/1.24.1": {
+      "sha512": "tWRQSxgvsOUZU3xfv77qY+kgLs1zLfnRt1V62N7JoJ3SXn2kKUUMY9KJ8IMPqzUMDgKumoWDqSQFIe3XNS4ydw==",
       "type": "package",
-      "path": "uipath.mail.activities/1.23.11",
+      "path": "uipath.mail.activities/1.24.1",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -21566,6 +21566,38 @@
         "lib/net6.0-windows7.0/zu/UiPath.Mail.Activities.Design.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.Mail.Activities.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.Mail.resources.dll",
+        "lib/net6.0/Interop.Domino.UiPath.dll",
+        "lib/net6.0/UiPath.Mail.Activities.Api.dll",
+        "lib/net6.0/UiPath.Mail.Activities.Api.xml",
+        "lib/net6.0/UiPath.Mail.Activities.Package.pdb",
+        "lib/net6.0/UiPath.Mail.Activities.dll",
+        "lib/net6.0/UiPath.Mail.dll",
+        "lib/net6.0/de/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/de/UiPath.Mail.resources.dll",
+        "lib/net6.0/es-MX/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/es-MX/UiPath.Mail.resources.dll",
+        "lib/net6.0/es/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/es/UiPath.Mail.resources.dll",
+        "lib/net6.0/fr/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/fr/UiPath.Mail.resources.dll",
+        "lib/net6.0/ja/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/ja/UiPath.Mail.resources.dll",
+        "lib/net6.0/ko/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/ko/UiPath.Mail.resources.dll",
+        "lib/net6.0/pt-BR/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/pt-BR/UiPath.Mail.resources.dll",
+        "lib/net6.0/pt/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/pt/UiPath.Mail.resources.dll",
+        "lib/net6.0/ru/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/ru/UiPath.Mail.resources.dll",
+        "lib/net6.0/tr/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/tr/UiPath.Mail.resources.dll",
+        "lib/net6.0/zh-CN/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/zh-CN/UiPath.Mail.resources.dll",
+        "lib/net6.0/zh-TW/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/zh-TW/UiPath.Mail.resources.dll",
+        "lib/net6.0/zu/UiPath.Mail.Activities.resources.dll",
+        "lib/net6.0/zu/UiPath.Mail.resources.dll",
         "tools/net461/MainSessionServer/Microsoft.Bcl.AsyncInterfaces.dll",
         "tools/net461/MainSessionServer/Microsoft.Extensions.Configuration.Abstractions.dll",
         "tools/net461/MainSessionServer/Microsoft.Extensions.Configuration.Binder.dll",
@@ -21592,20 +21624,12 @@
         "tools/net461/MainSessionServer/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
         "tools/net461/MainSessionServer/Microsoft.Extensions.Options.dll",
         "tools/net461/MainSessionServer/Microsoft.Extensions.Primitives.dll",
+        "tools/net461/MainSessionServer/Microsoft.IO.RecyclableMemoryStream.dll",
         "tools/net461/MainSessionServer/Microsoft.Win32.Primitives.dll",
         "tools/net461/MainSessionServer/Newtonsoft.Json.dll",
-        "tools/net461/MainSessionServer/Nito.AsyncEx.Context.dll",
-        "tools/net461/MainSessionServer/Nito.AsyncEx.Coordination.dll",
-        "tools/net461/MainSessionServer/Nito.AsyncEx.Interop.WaitHandles.dll",
-        "tools/net461/MainSessionServer/Nito.AsyncEx.Oop.dll",
-        "tools/net461/MainSessionServer/Nito.AsyncEx.Tasks.dll",
-        "tools/net461/MainSessionServer/Nito.Cancellation.dll",
-        "tools/net461/MainSessionServer/Nito.Collections.Deque.dll",
-        "tools/net461/MainSessionServer/Nito.Disposables.dll",
         "tools/net461/MainSessionServer/System.AppContext.dll",
         "tools/net461/MainSessionServer/System.Buffers.dll",
         "tools/net461/MainSessionServer/System.Collections.Concurrent.dll",
-        "tools/net461/MainSessionServer/System.Collections.Immutable.dll",
         "tools/net461/MainSessionServer/System.Collections.NonGeneric.dll",
         "tools/net461/MainSessionServer/System.Collections.Specialized.dll",
         "tools/net461/MainSessionServer/System.Collections.dll",
@@ -21716,7 +21740,7 @@
         "tools/net461/MainSessionServer/UiPath.MainSessionServer.Shared.dll",
         "tools/net461/MainSessionServer/UiPath.MainSessionServer.Shared.pdb",
         "tools/net461/MainSessionServer/netstandard.dll",
-        "uipath.mail.activities.1.23.11.nupkg.sha512",
+        "uipath.mail.activities.1.24.1.nupkg.sha512",
         "uipath.mail.activities.nuspec"
       ]
     },
@@ -22415,10 +22439,10 @@
         "uipath.testing.activities.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities/24.10.6": {
-      "sha512": "8qSdiA7o3R0v+ZM/YdK1gpJ8UDVhLjCpN6KFYnXFONSvhRM8qY4ZJRyra3etM3z1WwcB712llsUWE1vmewJXrQ==",
+    "UiPath.UIAutomation.Activities/24.10.7": {
+      "sha512": "+pShOrp6HlPbI8OATz4kZYVLZRU78rHu0gO7e1WnJ3YJeogYV2zgUxgt1UyoHwL6Llt5tgLN6zKHqqISqeiMiQ==",
       "type": "package",
-      "path": "uipath.uiautomation.activities/24.10.6",
+      "path": "uipath.uiautomation.activities/24.10.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22547,34 +22571,239 @@
         "lib/net6.0/ru/UiPath.UIAutomationNext.Activities.Design.resources.dll",
         "lib/net6.0/tr/UiPath.UIAutomationNext.Activities.Design.resources.dll",
         "lib/net6.0/zh-CN/UiPath.UIAutomationNext.Activities.Design.resources.dll",
-        "uipath.uiautomation.activities.24.10.6.nupkg.sha512",
+        "uipath.uiautomation.activities.24.10.7.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.6": {
-      "sha512": "LMhET4O4K1m+03C5ivIIjFlMvXOvDizRHSwgq3mc67vHJDuo/bnmnN3ZsAPcwOsnghD3Se8HbotTYOaZ/mXopQ==",
+    "UiPath.UIAutomation.Activities.Design.RecoveryPanel/24.10.7": {
+      "sha512": "J/Vg9V9l+LaBT7f5BUiTjq8GyfajpI4W5eR5iSO/a39GnBOIHGOXAEdy1x4x3gllExjAi43NjmZmbsHpSgsXpg==",
       "type": "package",
-      "path": "uipath.uiautomation.activities.design.recoverypanel/24.10.6",
+      "path": "uipath.uiautomation.activities.design.recoverypanel/24.10.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "content/118.js",
+        "content/1239.js",
+        "content/1285.js",
+        "content/1415.js",
+        "content/1565.js",
+        "content/1643.js",
+        "content/192.js",
+        "content/2031.js",
+        "content/2034.js",
+        "content/2145.js",
+        "content/2246.js",
+        "content/2284.js",
+        "content/2294.js",
+        "content/2304.js",
+        "content/2359.js",
+        "content/2483.js",
+        "content/2512.js",
+        "content/2593.js",
+        "content/2627.js",
+        "content/2658.js",
+        "content/2663.js",
+        "content/270.js",
+        "content/271.js",
+        "content/2739.js",
+        "content/2763.js",
+        "content/2777.js",
+        "content/2892.js",
+        "content/2933.js",
+        "content/3007.js",
+        "content/3109.js",
+        "content/3150.js",
+        "content/3471.js",
+        "content/4149.js",
+        "content/4191.js",
+        "content/4239.js",
+        "content/4305.js",
+        "content/4729.js",
+        "content/4789.js",
+        "content/4845.js",
+        "content/4974.js",
+        "content/5044.js",
+        "content/5065.js",
+        "content/5082.js",
+        "content/5158.js",
+        "content/5165.js",
+        "content/5259.js",
+        "content/5287.js",
+        "content/5328.js",
+        "content/5374.js",
+        "content/543.js",
+        "content/5490.js",
+        "content/5709.js",
+        "content/6617.js",
+        "content/6621.js",
+        "content/6731.js",
+        "content/6761.js",
+        "content/6766.js",
+        "content/6998.js",
+        "content/7341.js",
+        "content/7483.js",
+        "content/7543.js",
+        "content/7620.js",
+        "content/7696.js",
+        "content/7723.js",
+        "content/7743.js",
+        "content/7919.js",
+        "content/7998.js",
+        "content/8209.js",
+        "content/8299.js",
+        "content/8329.js",
+        "content/844.js",
+        "content/8932.js",
+        "content/9104.js",
+        "content/9291.js",
+        "content/9459.js",
+        "content/9652.js",
+        "content/966.js",
+        "content/9908.js",
+        "content/assets/NClick.svg",
+        "content/assets/NGetAttribute.svg",
+        "content/assets/NGetText.svg",
+        "content/assets/NGetUrl.svg",
+        "content/assets/NHover.svg",
+        "content/assets/NMouseScroll.svg",
+        "content/assets/NSelectItem.svg",
+        "content/assets/NTakeScreenshot.svg",
+        "content/assets/NTypeInto.svg",
+        "content/assets/icons.json",
+        "content/assets/monaco/min/vs/base/browser/ui/codicons/codicon/codicon.ttf",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.de.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.es.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.fr.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.it.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.ja.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.ko.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.ru.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.zh-cn.js",
+        "content/assets/monaco/min/vs/base/common/worker/simpleWorker.nls.zh-tw.js",
+        "content/assets/monaco/min/vs/base/worker/workerMain.js",
+        "content/assets/monaco/min/vs/basic-languages/abap/abap.js",
+        "content/assets/monaco/min/vs/basic-languages/apex/apex.js",
+        "content/assets/monaco/min/vs/basic-languages/azcli/azcli.js",
+        "content/assets/monaco/min/vs/basic-languages/bat/bat.js",
+        "content/assets/monaco/min/vs/basic-languages/bicep/bicep.js",
+        "content/assets/monaco/min/vs/basic-languages/cameligo/cameligo.js",
+        "content/assets/monaco/min/vs/basic-languages/clojure/clojure.js",
+        "content/assets/monaco/min/vs/basic-languages/coffee/coffee.js",
+        "content/assets/monaco/min/vs/basic-languages/cpp/cpp.js",
+        "content/assets/monaco/min/vs/basic-languages/csharp/csharp.js",
+        "content/assets/monaco/min/vs/basic-languages/csp/csp.js",
+        "content/assets/monaco/min/vs/basic-languages/css/css.js",
+        "content/assets/monaco/min/vs/basic-languages/cypher/cypher.js",
+        "content/assets/monaco/min/vs/basic-languages/dart/dart.js",
+        "content/assets/monaco/min/vs/basic-languages/dockerfile/dockerfile.js",
+        "content/assets/monaco/min/vs/basic-languages/ecl/ecl.js",
+        "content/assets/monaco/min/vs/basic-languages/elixir/elixir.js",
+        "content/assets/monaco/min/vs/basic-languages/flow9/flow9.js",
+        "content/assets/monaco/min/vs/basic-languages/freemarker2/freemarker2.js",
+        "content/assets/monaco/min/vs/basic-languages/fsharp/fsharp.js",
+        "content/assets/monaco/min/vs/basic-languages/go/go.js",
+        "content/assets/monaco/min/vs/basic-languages/graphql/graphql.js",
+        "content/assets/monaco/min/vs/basic-languages/handlebars/handlebars.js",
+        "content/assets/monaco/min/vs/basic-languages/hcl/hcl.js",
+        "content/assets/monaco/min/vs/basic-languages/html/html.js",
+        "content/assets/monaco/min/vs/basic-languages/ini/ini.js",
+        "content/assets/monaco/min/vs/basic-languages/java/java.js",
+        "content/assets/monaco/min/vs/basic-languages/javascript/javascript.js",
+        "content/assets/monaco/min/vs/basic-languages/julia/julia.js",
+        "content/assets/monaco/min/vs/basic-languages/kotlin/kotlin.js",
+        "content/assets/monaco/min/vs/basic-languages/less/less.js",
+        "content/assets/monaco/min/vs/basic-languages/lexon/lexon.js",
+        "content/assets/monaco/min/vs/basic-languages/liquid/liquid.js",
+        "content/assets/monaco/min/vs/basic-languages/lua/lua.js",
+        "content/assets/monaco/min/vs/basic-languages/m3/m3.js",
+        "content/assets/monaco/min/vs/basic-languages/markdown/markdown.js",
+        "content/assets/monaco/min/vs/basic-languages/mdx/mdx.js",
+        "content/assets/monaco/min/vs/basic-languages/mips/mips.js",
+        "content/assets/monaco/min/vs/basic-languages/msdax/msdax.js",
+        "content/assets/monaco/min/vs/basic-languages/mysql/mysql.js",
+        "content/assets/monaco/min/vs/basic-languages/objective-c/objective-c.js",
+        "content/assets/monaco/min/vs/basic-languages/pascal/pascal.js",
+        "content/assets/monaco/min/vs/basic-languages/pascaligo/pascaligo.js",
+        "content/assets/monaco/min/vs/basic-languages/perl/perl.js",
+        "content/assets/monaco/min/vs/basic-languages/pgsql/pgsql.js",
+        "content/assets/monaco/min/vs/basic-languages/php/php.js",
+        "content/assets/monaco/min/vs/basic-languages/pla/pla.js",
+        "content/assets/monaco/min/vs/basic-languages/postiats/postiats.js",
+        "content/assets/monaco/min/vs/basic-languages/powerquery/powerquery.js",
+        "content/assets/monaco/min/vs/basic-languages/powershell/powershell.js",
+        "content/assets/monaco/min/vs/basic-languages/protobuf/protobuf.js",
+        "content/assets/monaco/min/vs/basic-languages/pug/pug.js",
+        "content/assets/monaco/min/vs/basic-languages/python/python.js",
+        "content/assets/monaco/min/vs/basic-languages/qsharp/qsharp.js",
+        "content/assets/monaco/min/vs/basic-languages/r/r.js",
+        "content/assets/monaco/min/vs/basic-languages/razor/razor.js",
+        "content/assets/monaco/min/vs/basic-languages/redis/redis.js",
+        "content/assets/monaco/min/vs/basic-languages/redshift/redshift.js",
+        "content/assets/monaco/min/vs/basic-languages/restructuredtext/restructuredtext.js",
+        "content/assets/monaco/min/vs/basic-languages/ruby/ruby.js",
+        "content/assets/monaco/min/vs/basic-languages/rust/rust.js",
+        "content/assets/monaco/min/vs/basic-languages/sb/sb.js",
+        "content/assets/monaco/min/vs/basic-languages/scala/scala.js",
+        "content/assets/monaco/min/vs/basic-languages/scheme/scheme.js",
+        "content/assets/monaco/min/vs/basic-languages/scss/scss.js",
+        "content/assets/monaco/min/vs/basic-languages/shell/shell.js",
+        "content/assets/monaco/min/vs/basic-languages/solidity/solidity.js",
+        "content/assets/monaco/min/vs/basic-languages/sophia/sophia.js",
+        "content/assets/monaco/min/vs/basic-languages/sparql/sparql.js",
+        "content/assets/monaco/min/vs/basic-languages/sql/sql.js",
+        "content/assets/monaco/min/vs/basic-languages/st/st.js",
+        "content/assets/monaco/min/vs/basic-languages/swift/swift.js",
+        "content/assets/monaco/min/vs/basic-languages/systemverilog/systemverilog.js",
+        "content/assets/monaco/min/vs/basic-languages/tcl/tcl.js",
+        "content/assets/monaco/min/vs/basic-languages/twig/twig.js",
+        "content/assets/monaco/min/vs/basic-languages/typescript/typescript.js",
+        "content/assets/monaco/min/vs/basic-languages/typespec/typespec.js",
+        "content/assets/monaco/min/vs/basic-languages/vb/vb.js",
+        "content/assets/monaco/min/vs/basic-languages/wgsl/wgsl.js",
+        "content/assets/monaco/min/vs/basic-languages/xml/xml.js",
+        "content/assets/monaco/min/vs/basic-languages/yaml/yaml.js",
+        "content/assets/monaco/min/vs/editor/editor.main.css",
+        "content/assets/monaco/min/vs/editor/editor.main.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.de.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.es.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.fr.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.it.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.ja.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.ko.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.ru.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.zh-cn.js",
+        "content/assets/monaco/min/vs/editor/editor.main.nls.zh-tw.js",
+        "content/assets/monaco/min/vs/language/css/cssMode.js",
+        "content/assets/monaco/min/vs/language/css/cssWorker.js",
+        "content/assets/monaco/min/vs/language/html/htmlMode.js",
+        "content/assets/monaco/min/vs/language/html/htmlWorker.js",
+        "content/assets/monaco/min/vs/language/json/jsonMode.js",
+        "content/assets/monaco/min/vs/language/json/jsonWorker.js",
+        "content/assets/monaco/min/vs/language/typescript/tsMode.js",
+        "content/assets/monaco/min/vs/language/typescript/tsWorker.js",
+        "content/assets/monaco/min/vs/loader.js",
+        "content/common.js",
         "content/favicon.ico",
         "content/index.html",
-        "content/main.491038fa10c5519e.js",
-        "content/material-icons.4ad034d2c499d9b6.woff",
-        "content/material-icons.59322316b3fd6063.woff2",
-        "content/polyfills.6d9b80a588474c45.js",
-        "content/runtime.d21279a63bc7c3f8.js",
-        "content/styles.245b23a4a0bf4a36.css",
+        "content/main.js",
+        "content/material-icons.woff",
+        "content/material-icons.woff2",
+        "content/polyfills-core-js.js",
+        "content/polyfills-dom.js",
+        "content/polyfills.js",
+        "content/runtime.js",
+        "content/styles.css",
         "lib/net6.0/UiPath.UIAutomation.Activities.Design.RecoveryPanel.dll",
-        "uipath.uiautomation.activities.design.recoverypanel.24.10.6.nupkg.sha512",
+        "uipath.uiautomation.activities.design.recoverypanel.24.10.7.nupkg.sha512",
         "uipath.uiautomation.activities.design.recoverypanel.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities.Runtime/24.10.6": {
-      "sha512": "Kn2ochsMPvNDe8lrCOiPe8Iiphddisgmjj6/GLThxNC3Y0vCP8v9Qk6YE+UrVI5iZWKGsjJRkLpspMbyqiMRAg==",
+    "UiPath.UIAutomation.Activities.Runtime/24.10.7": {
+      "sha512": "pGEcm53hCWBnYS9ZBHiEwZHan458rV2H78Pnrr50Ns14ziqY71PLHYc6/Yc3oarivK2b/V21cCZ1arMU67kkXQ==",
       "type": "package",
-      "path": "uipath.uiautomation.activities.runtime/24.10.6",
+      "path": "uipath.uiautomation.activities.runtime/24.10.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22702,14 +22931,14 @@
         "lib/net6.0-windows7.0/zu/UiPath.CV.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.UIAutomationNext.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.UiAutomation.Activities.resources.dll",
-        "uipath.uiautomation.activities.runtime.24.10.6.nupkg.sha512",
+        "uipath.uiautomation.activities.runtime.24.10.7.nupkg.sha512",
         "uipath.uiautomation.activities.runtime.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities.Runtime.Design/24.10.6": {
-      "sha512": "B8n+JLU9GJY1WbimSpg/X5vUjP38CTqRFhcvfOMlEOFHmSs2+meY0gKptF7YIBRXe6+kht/c/8kFq+TioJLVaw==",
+    "UiPath.UIAutomation.Activities.Runtime.Design/24.10.7": {
+      "sha512": "+6mnqqrf13G0wedCMwjsrAzeE9KpMD+20sKxDaJMigHsUwPiV8a2c99RaqVXknKx86T4Pz2viBmEJ1ZV1wgVuw==",
       "type": "package",
-      "path": "uipath.uiautomation.activities.runtime.design/24.10.6",
+      "path": "uipath.uiautomation.activities.runtime.design/24.10.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22924,7 +23153,7 @@
         "lib/net461/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "lib/net6.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
-        "uipath.uiautomation.activities.runtime.design.24.10.6.nupkg.sha512",
+        "uipath.uiautomation.activities.runtime.design.24.10.7.nupkg.sha512",
         "uipath.uiautomation.activities.runtime.design.nuspec"
       ]
     },
@@ -23190,10 +23419,10 @@
     "net8.0-windows7.0": [
       "UiPath.Excel.Activities >= 2.24.3 <= 2.24.3",
       "UiPath.GSuite.Activities >= 2.7.24 <= 2.7.24",
-      "UiPath.Mail.Activities >= 1.23.11 <= 1.23.11",
+      "UiPath.Mail.Activities >= 1.24.1 <= 1.24.1",
       "UiPath.System.Activities >= 24.10.6 <= 24.10.6",
       "UiPath.Testing.Activities >= 24.10.3 <= 24.10.3",
-      "UiPath.UIAutomation.Activities >= 24.10.6 <= 24.10.6"
+      "UiPath.UIAutomation.Activities >= 24.10.7 <= 24.10.7"
     ]
   },
   "packageFolders": {
@@ -23203,9 +23432,9 @@
     "restore": {
       "projectUniqueName": "EX_31_Email_Automation",
       "projectName": "EX_31_Email_Automation",
-      "projectPath": "C:\\Users\\lbhar\\OneDrive\\Documents\\UiPath\\EX_31_Email_Automation\\.local",
+      "projectPath": "C:\\Users\\lbhar\\OneDrive\\Desktop\\OAI1903-IRPA\\LAB_EXPERIMENTS\\EX_31_Email_Automation\\.local",
       "packagesPath": "C:\\Users\\lbhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lbhar\\OneDrive\\Documents\\UiPath\\EX_31_Email_Automation\\.local"
+      "outputPath": "C:\\Users\\lbhar\\OneDrive\\Desktop\\OAI1903-IRPA\\LAB_EXPERIMENTS\\EX_31_Email_Automation\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -23223,7 +23452,7 @@
           "UiPath.Mail.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[1.23.11, 1.23.11]"
+            "version": "[1.24.1, 1.24.1]"
           },
           "UiPath.System.Activities": {
             "include": "Runtime",
@@ -23238,7 +23467,7 @@
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[24.10.6, 24.10.6]"
+            "version": "[24.10.7, 24.10.7]"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Users\\lbhar\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"

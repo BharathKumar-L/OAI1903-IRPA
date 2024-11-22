@@ -6,10 +6,10 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.3]",
     "UiPath.GSuite.Activities": "[2.7.24]",
-    "UiPath.Mail.Activities": "[1.23.11]",
+    "UiPath.Mail.Activities": "[1.24.1]",
     "UiPath.System.Activities": "[24.10.6]",
     "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.6]"
+    "UiPath.UIAutomation.Activities": "[24.10.7]"
   },
   "webServices": [],
   "entitiesStores": [],

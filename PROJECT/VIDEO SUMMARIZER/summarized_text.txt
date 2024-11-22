@@ -1,0 +1,4 @@
+okay Mike set recording software is all set the video jdbc in Twin factor I have it's been a long time about donjeti busy maybe five or six years maybe the last time I've used it is to make a video
+ come from a long time using spring and hibernate for database and things were going good but did I talk it's important for us to understand what happens behind the scene right I'm just
+play ABCs but important now what should I say why you need to be busy here nothing about this all your data is stored in the database right and another user on a normal use of when they want the detox they constantly talked to did I say I want a date of a user whose number is 101 database has no idea what you're talking about so basically you have to speak the database language and the language with your database
+understands is a squirrel so basically have to talk to you with the help of SQ language.
